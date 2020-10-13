@@ -11,7 +11,7 @@ FHIR SME and Facilitator: [Brett Marquard](brett@riverrockassociates.com)
 
 ## Scope of Work
 
-Support basic patient and provider access to a provider's calendar and appointment requests including APIs and guidance.
+Support patient and provider access to a provider's calendar and appointment requests including APIs and guidance.
 
 ## Timeline
 
